@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio Virtual de Evidencias</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+            color: #333;
+        }
+        header {
+            background: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        nav {
+            background: #333;
+            color: white;
+            padding: 10px;
+            display: flex;
+            justify-content: space-around;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 5px 10px;
+        }
+        nav a:hover {
+            background: #575757;
+        }
+        section {
+            padding: 20px;
+            border-bottom: 1px solid #ccc;
+        }
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h2 {
+            color: #4CAF50;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Portafolio Virtual de Evidencias</h1>
+        <p>Creado por: [Tu Nombre]</p>
+    </header>
+    <nav>
+        <a href="#presentacion">Presentación</a>
+        <a href="#zona-dp">Zona de Desarrollo Próximo</a>
+        <a href="#actividades">Actividades</a>
+        <a href="#desempeno">Desempeño Máximo</a>
+        <a href="#reflexion">Reflexión Global</a>
+    </nav>
+    <div class="container">
+        <section id="presentacion">
+            <h2>1. Presentación Personal e Introducción</h2>
+            <p>¡Hola! Mi nombre es [Tu Nombre], estudiante del Seminario de Trabajo de Investigación impartido por el Dr. Leonardo Manríquez López. Este portafolio está diseñado para documentar mi proceso de aprendizaje a lo largo del seminario, evidenciando mis avances, reflexiones y logros.</p>
+            <p>En este espacio encontrarás:</p>
+            <ul>
+                <li>Mis metas y habilidades iniciales.</li>
+                <li>Tres actividades destacadas, incluyendo la mejor, la peor (con correcciones) y la más significativa.</li>
+                <li>Mi máximo desempeño reflejado en una evidencia clave.</li>
+                <li>Una reflexión global sobre mi aprendizaje y desarrollo durante el seminario.</li>
+            </ul>
+        </section>
+        <section id="zona-dp">
+            <h2>2. Zona de Desarrollo Próximo</h2>
+            <p>El objetivo del seminario es fortalecer habilidades investigativas necesarias para el desarrollo de mi tesis, centrándose en la organización, reflexión crítica y comunicación efectiva.</p>
+            <p>Inicialmente, contaba con habilidades básicas de investigación, pero me enfrenté a desafíos como [desafíos específicos].</p>
+            <p><strong>Evidencia:</strong> Una lista inicial de habilidades y un plan de acción que diseñé al inicio del seminario para abordar mis áreas de oportunidad.</p>
+        </section>
+        <section id="actividades">
+            <h2>3. Tres Actividades Destacadas</h2>
+            <h3>Mejor Actividad</h3>
+            <p><strong>Descripción:</strong> Mi mejor actividad fue el desarrollo de un marco teórico claro y bien estructurado, utilizando diversas fuentes académicas.</p>
+            <p><strong>Reflexión:</strong> Este ejercicio me permitió consolidar mi habilidad para sintetizar información y justificar mi enfoque de investigación.</p>
+            <h3>Peor Actividad (Corregida)</h3>
+            <p><strong>Descripción:</strong> Inicialmente, mi propuesta de objetivos de investigación carecía de claridad y enfoque. Después de una revisión, ajusté los objetivos para que fueran específicos y medibles.</p>
+            <p><strong>Reflexión:</strong> La experiencia me enseñó la importancia de planificar con precisión desde el principio y de aceptar retroalimentación constructiva.</p>
+            <h3>Actividad Más Significativa</h3>
+            <p><strong>Descripción:</strong> La elaboración de una presentación oral sobre los avances de mi investigación fue el momento más significativo.</p>
+            <p><strong>Reflexión:</strong> Aprendí a comunicar mis ideas con confianza, logrando que otros entendieran el propósito de mi investigación y recibieran sus aportes.</p>
+        </section>
+        <section id="desempeno">
+            <h2>4. Desempeño Máximo</h2>
+            <p>Mi máximo desempeño se reflejó en la creación de un informe detallado que integraba todos los elementos del seminario: objetivos, metodología y conclusiones preliminares.</p>
+            <p><strong>Razones de elección:</strong></p>
+            <ul>
+                <li><strong>Emotivas:</strong> Este trabajo marcó un hito personal al demostrarme de lo que soy capaz.</li>
+                <li><strong>Sociales:</strong> Recibí retroalimentación positiva de mis compañeros y del Dr. Leonardo.</li>
+                <li><strong>Valores y aprendizaje:</strong> La experiencia consolidó mi capacidad para trabajar con disciplina y enfoque crítico.</li>
+            </ul>
+        </section>
+        <section id="reflexion">
+            <h2>5. Reflexión Global</h2>
+            <h3>Proceso de Aprendizaje</h3>
+            <p>Durante el seminario, desarrollé habilidades clave como la organización, la gestión del tiempo y el análisis crítico. Este aprendizaje será invaluable para completar mi tesis.</p>
+            <h3>Conciencia sobre mi Desempeño</h3>
+            <p>El portafolio me permitió identificar áreas donde puedo mejorar, como la redacción de objetivos, y reforzar mis fortalezas, como la capacidad de comunicar ideas de manera efectiva.</p>
+            <h3>Reflexión sobre el Seminario</h3>
+            <p>El seminario del Dr. Leonardo fue una experiencia enriquecedora. Para mejorarlo, sugeriría incluir sesiones de trabajo en equipo para fomentar el aprendizaje colaborativo.</p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 [Tu Nombre]. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
